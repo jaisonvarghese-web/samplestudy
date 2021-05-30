@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello baby
+=======
+helloooo what is this
+>>>>>>> feature
